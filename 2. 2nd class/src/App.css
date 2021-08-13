@@ -1,0 +1,15 @@
+h1{
+    color: red;
+}
+.container{
+    background-color: lightblue;
+    border: 1px solid black;
+    padding: 1rem;
+}
+.sumit{
+    display: flex;
+}
+.container-props{
+    display: flex;
+    justify-content: space-around;
+}
