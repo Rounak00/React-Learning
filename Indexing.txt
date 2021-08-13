@@ -1,0 +1,3 @@
+Day 1: react basic, render,react Dom, components, important, export,classname, syntactic sugar, styling process of react
+
+Day 2: props, inline styleing, folder structure, json installation
