@@ -7,7 +7,7 @@ const heading = {
     fontFamily :"arial"
 };
 const text = {
-    color:"#fff"
+    color:"#fff" 
 };
 
 const Props = (props) => {

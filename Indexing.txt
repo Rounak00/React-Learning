@@ -1,3 +1,9 @@
 Day 1: react basic, render,react Dom, components, important, export,classname, syntactic sugar, styling process of react
 
 Day 2: props, inline styleing, folder structure, json installation
+
+Day 3: Array of object (like api data) passing through props, looping array data.
+
+Day 4: import export photo, Routs
+
+Day 5: Hook-> Use state, Class component(not required)
