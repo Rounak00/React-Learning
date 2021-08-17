@@ -6,4 +6,6 @@ Day 3: Array of object (like api data) passing through props, looping array data
 
 Day 4: import export photo, Routs
 
-Day 5: Hook-> Use state, Class component(not required)
+Day 5: Hook-> UseState(), Class component(not required)
+
+Day 6: Application of useState()
