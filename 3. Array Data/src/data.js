@@ -7,7 +7,7 @@ const Data = [
         roll:"19BCA0600"
     },
     {
-        id:20,
+        id:2,
         name:"Rounak Dev",
         collage:"BIMS",
         stream:"M.Tech",

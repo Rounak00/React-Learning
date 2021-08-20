@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Rounak",
+      "username": "ghost",
+      "email": "rounakleader@gmail.com",
+      "phone": "23908763453"
+    },
+    {
+      "id": 2,
+      "name": "Sumit",
+      "username": "hydra",
+      "email": "sumitkrdas@gmail.com",
+      "phone": "9564651287"
+    },
+    {
+      "id": 3,
+      "name": "Shoyeb",
+      "username": "frd",
+      "email": "shoyeb@gmail.com",
+      "phone": "4578321496"
+    },
+    {
+      "name": "Sumit Kumar Das",
+      "username": "sumitkrdas777@gmail.com",
+      "email": "sumitkrdas777@gmail.com",
+      "phone": "07074397400",
+      "id": 4
+    },
+    {
+      "name": "Snehasis Das",
+      "username": "supu",
+      "email": "snehasis@gmail.com",
+      "phone": "1290993388",
+      "id": 5
+    }
+  ]
+}

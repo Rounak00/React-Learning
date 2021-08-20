@@ -9,3 +9,5 @@ Day 4: import export photo, Routs
 Day 5: Hook-> UseState(), Class component(not required)
 
 Day 6: Application of useState()
+
+Day 7: useEffect(), API makinh and data pass from database
