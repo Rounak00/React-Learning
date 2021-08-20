@@ -10,4 +10,7 @@ Day 5: Hook-> UseState(), Class component(not required)
 
 Day 6: Application of useState()
 
-Day 7: useEffect(), API makinh and data pass from database
+Day 7: useEffect(), API making and data pass from database
+
+Day 8: import api, use of env, more use of axious,usestate,useeffect
+
