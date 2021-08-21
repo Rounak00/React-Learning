@@ -1,0 +1,18 @@
+import React from "react";
+import { useLocation } from "react-router";
+
+const HomePage = () =>{
+    const loc = useLocation();
+    console.log(loc);
+    return(
+        <>
+            <h1>My current location is {loc.pathname}</h1>
+
+            {
+                loc.pathname === "/" ? (<p>This is Ghost</p>) : (<p>This is Rounak</p>)
+            }
+        </>
+    )
+}
+
+export default HomePage;
