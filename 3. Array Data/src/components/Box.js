@@ -10,7 +10,7 @@ const alignItems = {
 };
 const fontChange={
     fontFamily: "Lobster Two, cursive",
-    color:"#2f3640"
+    color:"#2f3640" 
 };
 
 const Box = (props) =>{
