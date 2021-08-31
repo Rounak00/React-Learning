@@ -10,9 +10,10 @@ Day 5: Hook-> UseState(), Class component(not required)
 
 Day 6: Application of useState()
 
-Day 7: useEffect(), API making and data pass from database
+Day 7: useEffect(), function pass inside use effect
 
 Day 8: import api, use of env, more use of axious,usestate,useeffect
 
 Day 9: useLocation, .env, usecontext
 
+Day 10: Hamburger using Reactjs and material ui, favicon ico.
