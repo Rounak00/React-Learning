@@ -1,0 +1,10 @@
+vid 1: normal install react . (npx create-react-app name)
+
+vid 2: File structure
+
+vid 3: JS only for react
+
+vid 4: Intro of JSX
+
+vid 5: setup bootstrap
+
