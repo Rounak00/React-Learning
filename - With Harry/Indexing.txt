@@ -6,5 +6,7 @@ vid 3: JS only for react
 
 vid 4: Intro of JSX
 
-vid 5: setup bootstrap
+vid 5: setup bootstrap -> from the intro page of bootstrap site first we need to add script and css link
+                          Then we can make our components using boostrap
 
+vid 6: 
