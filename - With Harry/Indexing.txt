@@ -9,4 +9,36 @@ vid 4: Intro of JSX
 vid 5: setup bootstrap -> from the intro page of bootstrap site first we need to add script and css link
                           Then we can make our components using boostrap
 
-vid 6: 
+vid 6: Props and propTypes
+-> simply send props like <div name="hello">
+    in take page function(props){ console.log(props.name);}
+    similarly if there are many props we can do a dextructuring to ignore to write long names like props.name instead of names using
+    const {name}=props;
+
+now we can create a check that calls proptypes so we can pass proper datatype
+1> import import PropTypes from 'prop-types'
+2> intialize check in the end
+    function-name.propTypes= {name: PropTypes.string (we can use .isrequired here bcz if dont sent props then it through an error)
+                              Id: PropTypes.number}
+Like this. :)
+
+Now if we didn't send props we can make a deafult props like this in the end
+function_name.default={title: "hello boss",
+                       id: 1478}
+
+vid 7: State and handling events
+
+       State means current situation of thet thing
+
+       We use useState hook here: 
+       1> import {useState} from 'react 
+       2> const [text, useText] = useState('hello);  
+Now if we want to change the state then we use setText function 
+
+NB: in setText we can use it the value of that box will change and when we use unchange we can get an extra argumtn name 'event' and we can write anything usually 'event.target.value', when that onchange function call
+
+vid 8, 9, 10, 11-Nothing
+
+
+
+     
