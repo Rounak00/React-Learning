@@ -37,7 +37,16 @@ Now if we want to change the state then we use setText function
 
 NB: in setText we can use it the value of that box will change and when we use unchange we can get an extra argumtn name 'event' and we can write anything usually 'event.target.value', when that onchange function call
 
-vid 8, 9, 10, 11-Nothing
+vid 8, 9, 10, 11-Add other logics 
+
+vid 12 Darkmode (Using use state)
+
+vid 13 add a logic of copy text from something
+
+vid 14 set darkmode for page
+
+vid 15
+
 
 
 
