@@ -39,13 +39,17 @@ NB: in setText we can use it the value of that box will change and when we use u
 
 vid 8, 9, 10, 11-Add other logics 
 
-vid 12 Darkmode (Using use state)
+vid 12: Darkmode (Using use state)
 
-vid 13 add a logic of copy text from something
+vid 13: add a logic of copy text from something
 
-vid 14 set darkmode for page
+vid 14: set darkmode for page
+        Basically here we can send use state data from one component to other
+        Use ternary operator
+vid 15: Use advance &&
+        Upgrade alart
 
-vid 15
+Vid 16:
 
 
 
