@@ -46,27 +46,47 @@ vid 13: add a logic of copy text from something
 vid 14: set darkmode for page
         Basically here we can send use state data from one component to other
         Use ternary operator
-vid 15: Use advance &&
+       
+        Use advance &&
         Upgrade alart
-
-Vid 16: make different types of darkmode challemge given
+        
+        make different types of darkmode challemge given
         No words count 1 bug fix
 
-vid 17: titlechange dynamically and favicons change
+vid 15: titlechange dynamically and favicons change
         favicon-> .ico file
 
-vid 18: Router
+vid 16: Router
         i> npm install react-router-dom
         ii> browserRouter,switch,route,link import
         iii> use link and to in anchor tag
         iv> use exact keyword
 
-vid 19: deployments in github(nuormally react router not good for github for deploying)
+vid 17: deployments in github(nuormally react router not good for github for deploying)
 
-vid 20: 2hr react boot camp for revision
+vid 18: hosting in vps
 
-vid 21: hosting in vps
+vid 20,21: Fixing problem
 
+vid 22: Start class base component 
+        inthat case we need to import react , {Component} from 'react';
+     
+         syntax:  export react class App extends Components{
+                      render(){ return( <div> hello World</div>)
+                           }}
+
+ always need to use {this.variable_name}
+
+Vid 23: Component structure of second application and use it make nav and news component
+
+Vid 24: Fetching API key
+        using props
+
+vid 25: understanding State,constructor and super keyword
+
+vid 26: looping through an array using jsx
+ 
+                                
 
 
 
