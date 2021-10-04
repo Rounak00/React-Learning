@@ -1,3 +1,5 @@
+Harry:
+
 vid 1: normal install react . (npx create-react-app name)
 
 vid 2: File structure
@@ -6,6 +8,10 @@ vid 3: JS only for react
 
 vid 4: Intro of JSX
 
+         In react fregment we can write with a div tag or with aray t5hrid barckets using coma , and in other hand 
+          we can use react fregmant like this <react.Fragment>...<React.Fragment/>
+          and more short we can use this also <></>
+      
 vid 5: setup bootstrap -> from the intro page of bootstrap site first we need to add script and css link
                           Then we can make our components using boostrap
 
@@ -93,5 +99,14 @@ vid 26: looping through an array using jsx
 
 
 
+Thappa:
+Vid 1-13 simple and intro type
 
-     
+vid 14: attributesd like className, contentEditable, link, htmlfor etc
+
+Vid 15-18: css 
+
+vid 19,20,21: Component, import, export 
+vid  22: calculator
+vid 23:props
+vid 24,25,26:array map      
