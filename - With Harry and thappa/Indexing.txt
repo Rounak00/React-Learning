@@ -109,4 +109,14 @@ Vid 15-18: css
 vid 19,20,21: Component, import, export 
 vid  22: calculator
 vid 23:props
-vid 24,25,26:array map      
+vid 24,25,26,27:array map    
+      > Make a data that is array of objects also add a unique key // when we send props maybe key not need but we need to send it during map function
+      > export and import it 
+      > array_name.map((val)=>{                        [parameters in array map-> value,index,which array]
+                     return( <components/>)})  // write this map function in curly brases bcz we write in under syntactical suger
+vid 28: React Dev tools (chrome extention)
+vid 29:If-else statement
+vid 30: ternary operator
+vid 31,32: slot machine game, emoji attach
+Vid 33: Hooks
+vid 34,35: clocks
